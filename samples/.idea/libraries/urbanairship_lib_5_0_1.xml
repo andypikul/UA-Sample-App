@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="urbanairship-lib-5.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RichPushSample/build/intermediates/exploded-aar/com.urbanairship/urbanairship-lib/5.0.1/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/RichPushSample/build/intermediates/exploded-aar/com.urbanairship/urbanairship-lib/5.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

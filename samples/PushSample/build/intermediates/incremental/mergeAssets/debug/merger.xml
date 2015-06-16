@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="5.0.1" >
+        <source path="/Users/andrewpikul/Dev/Apps/androidSample/ua-android-lib-latest/samples/PushSample/build/intermediates/exploded-aar/com.urbanairship/urbanairship-lib/5.0.1/assets" />
+    </dataSet>
+    <dataSet config="20.0.0" >
+        <source path="/Users/andrewpikul/Dev/Apps/androidSample/ua-android-lib-latest/samples/PushSample/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/assets" />
+    </dataSet>
+    <dataSet config="5.0.89" >
+        <source path="/Users/andrewpikul/Dev/Apps/androidSample/ua-android-lib-latest/samples/PushSample/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/andrewpikul/Dev/Apps/androidSample/ua-android-lib-latest/samples/PushSample/assets" >
+            <file
+                name="airshipconfig.properties"
+                path="/Users/andrewpikul/Dev/Apps/androidSample/ua-android-lib-latest/samples/PushSample/assets/airshipconfig.properties" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/andrewpikul/Dev/Apps/androidSample/ua-android-lib-latest/samples/PushSample/src/debug/assets" />
+    </dataSet>
+
+</merger>

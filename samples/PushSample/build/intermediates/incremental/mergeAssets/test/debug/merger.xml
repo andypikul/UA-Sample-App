@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/andrewpikul/Dev/Apps/androidSample/ua-android-lib-latest/samples/PushSample/src/androidTest/assets" />
+    </dataSet>
+
+</merger>

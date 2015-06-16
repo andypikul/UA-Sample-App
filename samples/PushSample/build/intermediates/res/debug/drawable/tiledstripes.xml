@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/stripes" 
+    android:tileMode="repeat" /><!-- From: file:/Users/andrewpikul/Dev/Apps/androidSample/ua-android-lib-latest/samples/PushSample/res/drawable/tiledstripes.xml -->

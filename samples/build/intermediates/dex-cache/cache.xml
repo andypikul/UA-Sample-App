@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/andrewpikul/Dev/Apps/androidSample/ua-android-lib-latest/samples/PushSample/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/andrewpikul/Dev/Apps/androidSample/ua-android-lib-latest/samples/PushSample/build/intermediates/pre-dexed/debug/classes-79b9d839dd7f3cfdfed5e5bb07776477c6ae7406.jar"
+        jar="/Users/andrewpikul/Dev/Apps/androidSample/ua-android-lib-latest/samples/PushSample/build/intermediates/exploded-aar/com.urbanairship/urbanairship-lib/5.0.1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="310c2f760f3c31f7fc48274ff146a21c232f2953"/>
+    <item
+        dex="/Users/andrewpikul/Dev/Apps/androidSample/ua-android-lib-latest/samples/PushSample/build/intermediates/pre-dexed/debug/classes-84e2a98c26169fd06e071c13c9ad254a91991eef.jar"
+        jar="/Users/andrewpikul/Dev/Apps/androidSample/ua-android-lib-latest/samples/PushSample/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa"/>
+    <item
+        dex="/Users/andrewpikul/Dev/Apps/androidSample/ua-android-lib-latest/samples/PushSample/build/intermediates/pre-dexed/debug/classes-a6f1faba2f456e6a0792331539454774405c03b2.jar"
+        jar="/Users/andrewpikul/Dev/Apps/androidSample/ua-android-lib-latest/samples/PushSample/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/andrewpikul/Dev/Apps/androidSample/ua-android-lib-latest/samples/PushSample/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-3e4e6d84d5253b894d0151d9088aca45c5eacc3f.jar"
+        jar="/Users/andrewpikul/Dev/Apps/androidSample/ua-android-lib-latest/samples/PushSample/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+
+</pre-dex-items>
